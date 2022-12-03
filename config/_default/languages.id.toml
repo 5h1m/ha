@@ -8,9 +8,11 @@ rtl = false
 title = "shim.web.id"
 logo = "img/logo.jpg"
 description = "sebuah blog pribadi"
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - shim.web.id"
 layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
 showTitle = true
+
+[permalinks]
+  posts = '/:filename/'
 
 dateFormat = "2 January 2006"
 
