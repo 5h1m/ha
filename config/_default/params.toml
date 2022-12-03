@@ -21,7 +21,7 @@ enableCodeCopy = false
   showTitle = true
 
 [footer]
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
