@@ -17,9 +17,11 @@ Ada 3 metode pembayaran yang tersedia dan masing-masing memiliki biaya tambahan 
 1. Tunai Modern Channel menggunakan kode bayar Finpay. Dibayar lewat Bank, Alfamart, Yomart, POS, dan Pegadaian (Rp2.500)
 2. Virtual Bank Account; Mandiri (Rp2.800), BNI dan BRI (Rp1.800), Permata (Rp1.300)
 3. QRIS (Rp70)
-> Biaya tambahan bisa berubah.
+> Biaya tambahan sewaktu-waktu dapat berubah.
 
 Saya pribadi memilih QRIS sebagai metode pembayaran. Alasannya yaitu cara pembayaran yang mudah dan biaya tambahan yang lebih murah. Jadi ketika saya membeli satu e-Meterai, saya hanya membayar Rp10.700 saja.
+
+> **Update (5/12/2022):** Jika Anda ingin melakukan pembayaran menggunakan QRIS, silakan akses akun e-Meterai Anda lewat peramban PC/Laptop. Jika menggunakan HP maka metode pembayaran QRIS tidak muncul.
 
 Setelah melakukan pembayaran secara otomatis e-Meterai masuk ke dalam akun. Untuk melihat ketersediaan e-Meterai bisa dilihat pada pojok kanan atas di kolom menu bagian nama. Jika kuota menunjukan angka sesuai dengan e-Meterai yang kita beli maka e-Meterai sudah masuk ke dalam akun dan siap untuk dibubuhkan.
 
