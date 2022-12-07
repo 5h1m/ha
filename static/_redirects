@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://precious-dolphin-2565d0.netlify.app/* https://shim.web.id/:splat 301!
