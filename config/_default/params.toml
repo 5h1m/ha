@@ -6,11 +6,11 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "congo"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "dark"
 autoSwitchAppearance = false
 
 enableSearch = false
-enableCodeCopy = false
+enableCodeCopy = true
 
 # mainSections = ["section1", "section2"]
 # robots = ""
@@ -22,8 +22,8 @@ enableCodeCopy = false
 
 [footer]
   showCopyright = false
-  showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]

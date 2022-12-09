@@ -21,7 +21,7 @@ dateFormat = "2 January 2006"
     image = "img/author.jpg"
     headline = "sebuah blog pribadi"
     bio = "Sipil biasa."
-  links = [
+  #links = [
   #   { email = "mailto:shim@disroot.org" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -64,4 +64,4 @@ dateFormat = "2 January 2006"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   #   { ko-fi = "https://ko-fi.com/username" },
-   ]
+   #]
