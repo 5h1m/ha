@@ -16,7 +16,7 @@ enableCodeCopy = true
 # robots = ""
 
 [header]
-  # layout = "hamburger" # valid options: basic, hamburger, hybrid, custom
+  # layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
   showTitle = true
 
@@ -36,8 +36,8 @@ enableCodeCopy = true
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = false
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  #showEdit = false
+  #editURL = "https://github.com/username/repo/"
   editAppendPath = false
   showHeadingAnchors = true
   showPagination = true
@@ -45,9 +45,9 @@ enableCodeCopy = true
   showReadingTime = true
   showTableOfContents = false
   showTaxonomies = true
-  showWordCount = true
+  showWordCount = false
   showComments = false
-  sharingLinks = ["facebook", "twitter"]
+  sharingLinks = ["facebook", "twitter", "linkedin"]
 
 [list]
   showBreadcrumbs = false

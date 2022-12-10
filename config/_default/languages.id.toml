@@ -3,6 +3,7 @@ languageName = "Indonesian"
 displayName = "ID"
 isoCode = "id"
 rtl = false
+description = "sebuah blog pribadi"
 
 [header]
 title = "shim.web.id"

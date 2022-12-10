@@ -2,7 +2,7 @@ baseURL = "https://your_domain.com/"
 defaultContentLanguage = "id"
 
 enableRobotsTXT = true
-paginate = 10
+paginate = 1
 summaryLength = 0
 
 [outputs]
