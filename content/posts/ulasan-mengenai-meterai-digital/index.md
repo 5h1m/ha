@@ -2,7 +2,6 @@
 date: 2022-12-02
 title: "Ulasan Mengenai Meterai Digital (e-Meterai)"
 description: "Ulasan pribadi mengenai pengalaman saya menggunakan Meterai Digital (e-Meterai)."
-summary: "Ulasan pribadi mengenai pengalaman saya menggunakan Meterai Digital (e-Meterai)."
 tags: ["e-Meterai", "Meterai Digital"]
 ---
 Saya baru mengetahui adanya Meterai Digital atau e-Meterai pada saat dosen saya membagikan reels salah satu akun Instagram yang membahas tentang *cara menggunakan e-Meterai untuk dokumen*. Dari situ, timbul rasa penasaran saya untuk mencoba sendiri bagaimana menggunakan e-Meterai.
@@ -21,28 +20,28 @@ Ada 3 metode pembayaran yang tersedia dan masing-masing memiliki biaya tambahan 
 
 Saya pribadi memilih QRIS sebagai metode pembayaran. Alasannya yaitu cara pembayaran yang mudah dan biaya tambahan yang lebih murah. Jadi ketika saya membeli satu e-Meterai, saya hanya membayar Rp10.700 saja.
 
-> **Update (5/12/2022):** Jika Anda ingin melakukan pembayaran menggunakan QRIS, silakan akses akun e-Meterai Anda lewat peramban PC/Laptop. Jika menggunakan HP maka metode pembayaran QRIS tidak muncul.
+> **Update (5/12/2022):** Jika Anda ingin melakukan pembayaran menggunakan QRIS, silakan akses akun e-Meterai Anda lewat peramban di komputer/laptop. Jika menggunakan ponsel maka metode pembayaran QRIS tidak muncul.
 
 Setelah melakukan pembayaran secara otomatis e-Meterai masuk ke dalam akun. Untuk melihat ketersediaan e-Meterai bisa dilihat pada pojok kanan atas di kolom menu bagian nama. Jika kuota menunjukan angka sesuai dengan e-Meterai yang kita beli maka e-Meterai sudah masuk ke dalam akun dan siap untuk dibubuhkan.
 
-![kuota](/img/posts/kuota.png)
+![kuota](/img/posts/1/kuota.png)
 
 Langkah terakhir yaitu melakukan pembubuhan e-Meterai pada dokumen. Saya menggunakan e-Meterai ini untuk dibubuhkan dalam lembar orisinalitas penelitian. Langkah ini tidak sulit karena dalam situs e-Meterai sudah disediakan cara untuk melakukan pembubuhan. Perlu diingat untuk dokumen elektronik yang ingin dibubuhkan e-Meterai harus berformat PDF dan berukuran A4.
 
-![pembubuhan](/img/posts/pembubuhan.png)
+![pembubuhan](/img/posts/1/pembubuhan.png)
 
 Setelah selesai dibubuhkan, secara otomatis dokumen dikirim ke surel yang digunakan untuk mendaftar akun e-Meterai atau bisa mengunjungi Riwayat Pembubuhan pada akun e-Meterai. Dokumen tersedia dalam Riwayat Pembubuhan selama 48 jam setelah melakukan pembubuhan e-Meterai. Setelah lewat dari 48 jam dokumen akan hangus, tetapi masih bisa diunduh dari surel.
 
-![riwayat](/img/posts/riwayat-pembubuhan.png)
+![riwayat](/img/posts/1/riwayat-pembubuhan.png)
 
-![surel](/img/posts/surel.png)
+![surel](/img/posts/1/surel.png)
 
 ## Kelebihan dan Kekurangan
 **Kelebihan:**
 1. ***Mudah dan cepat.***  
 Saya sendiri tidak mengalami kesulitan saat melakukan pendaftaran sampai pembubuhan e-Meterai ke dalam dokumen. Selain itu, jangka waktu pengiriman dokumen yang sudah dibubuhkan e-Meterai ke alamat surel saya tidak memakan waktu lama.
 2. ***Biaya tambahan yang tidak terlalu mahal.***  
-Jika menggunakan metode pembayaran QRIS. Akan tetapi, kemungkinan bagi sebagian orang biaya tambahan untuk metode pembayaran yang lain masih terbilang murah (mungkin).
+Jika menggunakan metode pembayaran QRIS.
 
 **Kekurangan:**
 1. ***Adanya syarat mengunggah foto KTP untuk pendaftaran akun Personal.***  
