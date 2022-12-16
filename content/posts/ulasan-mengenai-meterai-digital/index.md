@@ -41,6 +41,8 @@ Setelah selesai dibubuhkan, secara otomatis dokumen dikirim ke surel yang diguna
 ![surel](/img/posts/1/surel.png)
 
 ## Kelebihan dan Kekurangan
+Berikut beberapa poin kelebihan dan kekurangan yang saya ambil dari e-Meterai:
+
 **Kelebihan:**
 1. ***Mudah dan cepat.***  
 Saya sendiri tidak mengalami kesulitan saat melakukan pendaftaran sampai pembubuhan e-Meterai ke dalam dokumen. Selain itu, jangka waktu pengiriman dokumen yang sudah dibubuhkan e-Meterai ke alamat surel saya tidak memakan waktu lama.
