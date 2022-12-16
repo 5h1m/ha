@@ -16,11 +16,15 @@ Ada 3 metode pembayaran yang tersedia dan masing-masing memiliki biaya tambahan 
 1. Tunai Modern Channel menggunakan kode bayar Finpay. Dibayar lewat Bank, Alfamart, Yomart, POS, dan Pegadaian (Rp2.500)
 2. Virtual Bank Account; Mandiri (Rp2.800), BNI dan BRI (Rp1.800), Permata (Rp1.300)
 3. QRIS (Rp70)
-> Biaya tambahan sewaktu-waktu dapat berubah.
+
+{{< alert >}}
+Biaya tambahan sewaktu-waktu bisa berubah sesuai dengan ketentuan yang berlaku.
+{{< /alert >}}
+
 
 Saya pribadi memilih QRIS sebagai metode pembayaran. Alasannya yaitu cara pembayaran yang mudah dan biaya tambahan yang lebih murah. Jadi ketika saya membeli satu e-Meterai, saya hanya membayar Rp10.700 saja.
 
-> **Update (5/12/2022):** Jika Anda ingin melakukan pembayaran menggunakan QRIS, silakan akses akun e-Meterai Anda lewat peramban di komputer/laptop. Jika menggunakan ponsel maka metode pembayaran QRIS tidak muncul.
+> Terbaru (5/12/22): Jika Anda ingin melakukan pembayaran menggunakan QRIS, silakan akses akun e-Meterai Anda lewat peramban di komputer/laptop. Jika menggunakan ponsel maka metode pembayaran QRIS tidak muncul.
 
 Setelah melakukan pembayaran secara otomatis e-Meterai masuk ke dalam akun. Untuk melihat ketersediaan e-Meterai bisa dilihat pada pojok kanan atas di kolom menu bagian nama. Jika kuota menunjukan angka sesuai dengan e-Meterai yang kita beli maka e-Meterai sudah masuk ke dalam akun dan siap untuk dibubuhkan.
 
@@ -49,7 +53,12 @@ Menurut hemat saya, hal ini tidak perlu dilakukan karena saya tetap harus mengis
 2. ***Alamat surel (Email) tidak bisa diganti hanya nomer telepon saja yang bisa diganti.***  
 Seharusnya pengguna dapat mengubah alamat surel untuk akun e-Meterai. Jika sewaktu-waktu pengguna mengalami masalah lupa kata sandi untuk mengakses akun surel (gmail, yahoo, dll) atau mengalami peretasan pada alamat surel, tetapi masih dapat mengakses akun e-Meterai, setidaknya pengguna dapat mengamankan akun e-Meterai dengan mengganti alamat surel.
 
+> Terbaru (16/12/22): Apabila ingin melakukan perubahan alamat surel pada akun e-Meterai bisa menghubungi Contact Center Peruri di WhatsApp.
+
 Mungkin ini saja ulasan dari saya mengenai Meterai Digital atau e-Meterai. Ulasan ini bersifat subjektif dari pribadi saya. Setuju atau tidak setuju itu urusan Anda, hehe.
 
 Terima kasih.
 
+---
+- **Terbaru (5/12/22):** Mengenai pembayaran QRIS
+- **Terbaru (16/12/22):** Mengenai perubahan alamat surel (Email)
