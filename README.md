@@ -1,0 +1,1 @@
+Personal Blog in Indonesian.
