@@ -57,7 +57,7 @@ enableCodeCopy = true
   showTableOfContents = false
   showTaxonomies = false
   groupByYear = true
-  paginationWidth = 1
+  paginationWidth = 100
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]

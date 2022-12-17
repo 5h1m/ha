@@ -18,5 +18,3 @@ Silakan hubungi alamat surel di bawah ini:
 ```html
 shim[at]disroot[dot]org
 ```
-
-Terima kasih.
