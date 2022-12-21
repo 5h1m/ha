@@ -5,8 +5,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "avocado"
-defaultAppearance = "dark"
+colorScheme = "fire"
+defaultAppearance = "light"
 autoSwitchAppearance = false
 
 images = ["/featured.png"]

@@ -55,7 +55,7 @@ Menurut hemat saya, hal ini tidak perlu dilakukan karena saya tetap harus mengis
 2. ***Alamat surel (Email) tidak bisa diganti hanya nomer telepon saja yang bisa diganti.***  
 Seharusnya pengguna dapat mengubah alamat surel untuk akun e-Meterai. Jika sewaktu-waktu pengguna mengalami masalah lupa kata sandi untuk mengakses akun surel (gmail, yahoo, dll) atau mengalami peretasan pada alamat surel, tetapi masih dapat mengakses akun e-Meterai, setidaknya pengguna dapat mengamankan akun e-Meterai dengan mengganti alamat surel.
 
-> Terbaru (16/12/22): Setelah melakukan komunikasi dengan Kontak Pusat Peruri, hasilnya adalah alamat surel pada akun e-Meterai tidak dapat diganti. Akan tetapi, Pusat Kontak Peruri memberikan solusi lain yaitu user dapat mengajukan penghapusan akun e-Meterai.
+> Terbaru (16/12/22): Setelah melakukan komunikasi dengan Kontak Pusat Peruri, hasilnya adalah alamat surel pada akun e-Meterai tidak dapat diganti. Akan tetapi, Pusat Kontak Peruri memberikan solusi lain yaitu pengguna dapat mengajukan penghapusan akun e-Meterai.
 
 ![terbaru-2](/img/posts/1/terbaru-2.png)
 
