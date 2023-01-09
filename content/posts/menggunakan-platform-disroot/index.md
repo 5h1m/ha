@@ -46,7 +46,7 @@ Kendala dari layanan surel Disroot belum saya temukan, semuanya masih berjalan n
 
 Untuk layanan FEDisroot saya gunakan untuk mencari informasi terbaru dari belahan Fediverse mengenai apapun yang sedang terjadi. Saya tidak terlalu aktif untuk memposting sesuatu di sana karena saya lebih suka menyimak.
 
-Sampai saat ini saya belum menemukan kendala di FEDisroot. Akan tetapi, saya menemukan fitur menarik seperti limit karakter untuk membuat toot (postingan) sebanyak 5.000 karakter. Mungkin ini bisa jadi alternatif bagi Anda yang mempunyai hobi sambat-menyambat tanpa harus membuat utas.
+Sampai saat ini saya belum menemukan kendala di FEDisroot. Akan tetapi, saya menemukan fitur menarik seperti limit karakter untuk membuat Toot sebanyak 5.000 karakter. Mungkin ini bisa jadi alternatif bagi Anda yang mempunyai hobi sambat-menyambat tanpa harus membuat utas.
 
 ![FEDisroot](/img/posts/2/FEDisroot.png)
 
